@@ -75,6 +75,5 @@ It also illustrates how combining **transfer learning**, **data augmentation**, 
 
 
 ## Literature Cited
-- Tan, M., & Le, Q. V. (2019). *EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks*. arXiv preprint arXiv:1905.11946.  
-- Krizhevsky, A. (2009). *Learning multiple layers of features from tiny images*. University of Toronto.
+No formal academic literature was referenced in this experiment. The implementation was based on personal experience and knowledge of TensorFlow and Keras frameworks.
 
